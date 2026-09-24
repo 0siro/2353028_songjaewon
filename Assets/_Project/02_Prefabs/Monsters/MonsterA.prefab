@@ -122,7 +122,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0}
-    oldSize: {x: 4.1666665, y: 4.1666665}
+    oldSize: {x: 5, y: 5}
     newSize: {x: 4.1666665, y: 4.1666665}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -166,7 +166,7 @@ MonoBehaviour:
   hurtBoxOffset: {x: 0, y: 0.55}
   attackBoxSize: {x: 1.92, y: 1.27}
   attackBoxOffset: {x: -0.62, y: 0.63}
-  hpDisplayHeightOverride: 1.8
+  hpDisplayHeightOverride: 2.8
   idleFrames:
   - {fileID: 21300000, guid: e4456af0740e17545b0a83fdfc813c2a, type: 3}
   - {fileID: 21300000, guid: 7734f0bc23d7f5643bf3d47ace387911, type: 3}
